@@ -8,6 +8,7 @@ public class EmployeeDetils {
 		}
 			System.out.println(i);
 		}
+		System.out.println("vinoth");
 		
 	
 	}
