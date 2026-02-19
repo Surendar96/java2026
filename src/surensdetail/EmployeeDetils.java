@@ -9,6 +9,7 @@ public class EmployeeDetils {
 			System.out.println(i);
 			System.out.println("surendarGIT");
 		}
+		System.out.println("vinoth");
 		
 	
 	}
