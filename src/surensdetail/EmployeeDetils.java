@@ -7,6 +7,7 @@ public class EmployeeDetils {
 			System.exit(7);;
 		}
 			System.out.println(i);
+			System.out.println("surendarGIT");
 		}
 		System.out.println("vinoth");
 		
